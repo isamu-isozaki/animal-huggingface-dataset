@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+moco-v3-models
+
+diffusers
 __pycache__/
 *.py[cod]
 *$py.class
